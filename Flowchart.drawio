@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T03:50:44.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="6aFoLw7m_IlVRZYeoHz3" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T05:20:44.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="72oYKa-x7T18f9fTpPAr" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="989" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="H_9JaAnELSW8I4uDqllw-27" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=hypervisor;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="690.87" width="30.77" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H_9JaAnELSW8I4uDqllw-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="H_9JaAnELSW8I4uDqllw-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="360" as="sourcePoint" />
             <mxPoint x="200" y="360" as="targetPoint" />
@@ -67,7 +67,7 @@
             <mxPoint x="370" y="359.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H_9JaAnELSW8I4uDqllw-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_9JaAnELSW8I4uDqllw-1" target="H_9JaAnELSW8I4uDqllw-37">
+        <mxCell id="H_9JaAnELSW8I4uDqllw-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_9JaAnELSW8I4uDqllw-1" target="H_9JaAnELSW8I4uDqllw-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="310" as="sourcePoint" />
             <mxPoint x="240" y="320" as="targetPoint" />
@@ -110,7 +110,7 @@
         <mxCell id="H_9JaAnELSW8I4uDqllw-43" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;XO uses templates to provision VM&#39;s&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530.3800000000001" y="540" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H_9JaAnELSW8I4uDqllw-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="H_9JaAnELSW8I4uDqllw-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1" y="-252" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="442.5" y="519.66" as="sourcePoint" />
             <mxPoint x="522.5" y="519.66" as="targetPoint" />
@@ -136,7 +136,7 @@
         <mxCell id="H_9JaAnELSW8I4uDqllw-51" value="Jenkins instructs Terraform&#xa;to update applications" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="405.67" y="410" width="114.33" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H_9JaAnELSW8I4uDqllw-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_9JaAnELSW8I4uDqllw-2" target="H_9JaAnELSW8I4uDqllw-1">
+        <mxCell id="H_9JaAnELSW8I4uDqllw-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_9JaAnELSW8I4uDqllw-2" target="H_9JaAnELSW8I4uDqllw-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="200" as="sourcePoint" />
             <mxPoint x="290" y="320" as="targetPoint" />
@@ -147,6 +147,44 @@
         </mxCell>
         <mxCell id="H_9JaAnELSW8I4uDqllw-55" value="Public repo&#39;s are&#xa;forked to GitLab" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="210" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H_9JaAnELSW8I4uDqllw-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12;endSize=6.33;exitX=0.78;exitY=-0.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H_9JaAnELSW8I4uDqllw-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="450" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_9JaAnELSW8I4uDqllw-59" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Terraform reports back to&lt;br&gt;Jenkins with deployment output (IP&#39;s etc.)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520.0000000000001" y="410" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H_9JaAnELSW8I4uDqllw-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12;endSize=6.33;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-0.4038" y="-120" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="340" as="sourcePoint" />
+            <mxPoint x="740" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="350" />
+            </Array>
+            <mxPoint x="74" y="111" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_9JaAnELSW8I4uDqllw-61" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Jenkins SSH&#39;s into&lt;br&gt;VM&#39;s to configure them. Ansible takes over&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470.39" y="295" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H_9JaAnELSW8I4uDqllw-62" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="440" width="65.79" height="80.87" as="geometry" />
+        </mxCell>
+        <mxCell id="H_9JaAnELSW8I4uDqllw-64" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1" y="-252" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="752.5500000000001" y="530" as="sourcePoint" />
+            <mxPoint x="670" y="640" as="targetPoint" />
+            <mxPoint x="112" y="210" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H_9JaAnELSW8I4uDqllw-65" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;VM&#39;s are configured by Ansible&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="697" y="590" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
